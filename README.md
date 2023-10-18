@@ -27,4 +27,4 @@ Here are some functions within this tool:
 
 This tool utilizes Streamlit to provide visual result presentation, enhancing data interaction and information retrieval. It also builds a remote API for data stream processing through FastAPI.
 
-You can find a detailed demo [here](https://github.com/ruruAC/TimeTool/master/Demo.pdf).
+You can find a detailed demo [here](https://github.com/ruruAC/TimeTool/blob/master/Demo.pdf).
