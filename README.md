@@ -25,6 +25,6 @@ Here are some functions within this tool:
 
 4. Visualize the accuracy of each algorithm to choose reliable algorithms and their corresponding results.
 
-This tool utilizes Streamlit to provide visual result presentation, enhancing data interaction and information retrieval. It also builds a remote API for data stream processing through FastAPI.
+This tool utilizes [Streamlit](https://streamlit.io/) to provide visual result presentation, enhancing data interaction and information retrieval. It also builds a remote API for data stream processing through [FastAPI](https://fastapi.tiangolo.com/zh/).
 
 You can find a detailed demo [here](https://github.com/ruruAC/TimeTool/blob/master/Demo.pdf).
